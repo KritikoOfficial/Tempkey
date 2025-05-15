@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "e1915cde09e7218b",
+    "username": "kritiko",
+    "password": "kritiko123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
