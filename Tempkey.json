@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "5cc6b5d92d8e6e01",
+    "username": "aning",
+    "password": "kritiko",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
     "id": "b5e144e6e40ff323",
     "username": "kritiko",
     "password": "kritiko123",
