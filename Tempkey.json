@@ -35,6 +35,13 @@
     "allowOffline": false
   },
   {
+    "id": "21b0a5e256b5b1cf",
+    "username": "drea",
+    "password": "mayetits",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "0af69c2cec353408",
     "username": "taguro",
     "password": "kritiko",
