@@ -49,6 +49,13 @@
     "allowOffline": true
   },
   {
+    "id": "a451bbbeaebc1ca0",
+    "username": "mcfly",
+    "password": "kritiko",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "41ab2421e70c5c24",
     "username": "vita",
     "password": "kritiko",
